@@ -4,7 +4,7 @@
 
 This repo contains the version number files which OpenMV IDE uses to detect when a new release is available.
 * [openmv-ide-version.txt](openmv-ide-version.txt) tells OpenMV IDE what the newest released version of the IDE is.
-* [openmv-ide-resources-version.txt](openmv-ide-resources-version.txt) tells OpenMV IDE what the newest released verison of resources for the IDE are. OpenMV IDE can update it's resources without requring a full update of the entire IDE which makes it easier to push updates.
+* [openmv-ide-resources-version.txt](openmv-ide-resources-version.txt) tells OpenMV IDE what the newest released verison of resources for the IDE are. OpenMV IDE can update its resources without requring a full update of the entire IDE which makes it easier to push updates to the firmware, documentation, etc.
 
 ## About this Repo
 
