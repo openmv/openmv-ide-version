@@ -8,4 +8,4 @@ This repo contains the version number files which OpenMV IDE uses to detect when
 
 ## About this Repo
 
-Do not include this repo as a submodule in any other repo. The version numbers here should be able to be changed at any time to push/pull-back OpenMV IDE updates.
+Do not include this repo as a submodule in any other repo. The version numbers here should be able to be changed at any time to push/pull-back OpenMV IDE updates. This repo should not have any other branches, releases, tags, etc. Just one main branch which is modified to inform OpenMV IDE what the latest versions are.
